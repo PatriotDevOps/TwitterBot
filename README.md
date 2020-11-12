@@ -3,7 +3,7 @@ This code is designed to repost tweets containing a pscp.tv url from a given lis
 
 Developed in C# .NET Core 3.1
 
-### Supported Arguments:
+### Required Parameters:
 
 **/appkey=** The application key of the twitter app you will run the bot on.
 
@@ -14,7 +14,7 @@ Developed in C# .NET Core 3.1
 **/secret=** User's Authentication Secret (from OAuth) goes here
 
 
-### Optional parameters:
+### Optional Parameters:
 
 **/follow=** A comma separated list of twitter ids to follow. numbers only, use https://tweeterid.com/ to convert a handle
 
